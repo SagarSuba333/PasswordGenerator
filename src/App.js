@@ -26,8 +26,6 @@ function App() {
         draggable
         pauseOnHover
       />
-      <p>BY</p>
-      <a href="https://twitter.com/sagarsuba333" alt="Twitter Profile Link">Sagar</a>
     </div>
   );
 }
